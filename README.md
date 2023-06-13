@@ -1,4 +1,4 @@
-# leaning_automation
+# learning_automation
 
 A new Flutter project.
 
